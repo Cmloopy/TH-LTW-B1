@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('anhnen2.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    margin-top: 60px;
+    margin-left: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
